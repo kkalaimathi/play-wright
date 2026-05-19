@@ -1,0 +1,8 @@
+{
+  "toastText": "",
+  "invalidElements": [
+    "{\"label\":\"\",\"text\":\"\",\"placeholder\":\"0.00\",\"name\":\"\",\"formControlName\":\"\",\"id\":\"clr-form-control-77\",\"type\":\"text\",\"ariaInvalid\":\"\",\"classes\":\"clr-input ng-untouched ng-pristine ng-invalid\"}",
+    "{\"label\":\"I/We declare that all particulars in this application are true and correct.\",\"text\":\"\",\"placeholder\":\"\",\"name\":\"\",\"formControlName\":\"\",\"id\":\"clr-form-control-23\",\"type\":\"checkbox\",\"ariaInvalid\":\"\",\"classes\":\"ng-untouched ng-pristine ng-invalid\"}",
+    "{\"label\":\"\",\"text\":\"BAG BAL BAR BOT BOX BRL BUN CAN CAS CEN CRT CSK CTM CTN CUP DAL DRM GWH JAR KEG KGM LOT LTR MIL MTK MTQ MTR NMB PAI PAR PAT PKG PKT POU ROL SAC SET SKI STK TEN TIN TNE TPR TRY TUB UNT\",\"placeholder\":\"\",\"name\":\"\",\"formControlName\":\"\",\"id\":\"clr-form-control-64\",\"type\":\"\",\"ariaInvalid\":\"\",\"classes\":\"ng-untouched ng-pristine clr-select ng-invalid\"}"
+  ]
+}
