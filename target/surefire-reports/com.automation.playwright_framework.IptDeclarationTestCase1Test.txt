@@ -1,15 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.automation.playwright_framework.IptDeclarationTestCase1Test
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 149.9 s <<< FAILURE! -- in com.automation.playwright_framework.IptDeclarationTestCase1Test
-com.automation.playwright_framework.IptDeclarationTestCase1Test.submitIptDeclarationTestCase1UsingJsonData -- Time elapsed: 149.8 s <<< ERROR!
-java.lang.IllegalStateException: Packing Description section was not visible.
-	at com.automation.IptDeclarationPage.resolvePackingDescriptionSection(IptDeclarationPage.java:2195)
-	at com.automation.IptDeclarationPage.fillPackingDescription(IptDeclarationPage.java:461)
-	at com.automation.IptDeclarationPage.fillItemInfo(IptDeclarationPage.java:452)
-	at com.automation.IptDeclarationPage.lambda$4(IptDeclarationPage.java:60)
-	at com.automation.IptDeclarationPage.fillSectionAndAdvance(IptDeclarationPage.java:631)
-	at com.automation.IptDeclarationPage.populateDraftFrom(IptDeclarationPage.java:60)
-	at com.automation.playwright_framework.IptDeclarationTestCase1Test.submitBatchDeclarations(IptDeclarationTestCase1Test.java:86)
-	at com.automation.playwright_framework.IptDeclarationTestCase1Test.submitIptDeclarationTestCase1UsingJsonData(IptDeclarationTestCase1Test.java:50)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 341.7 s -- in com.automation.playwright_framework.IptDeclarationTestCase1Test
